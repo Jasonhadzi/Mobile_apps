@@ -10,3 +10,18 @@ Use this app if you want to keep track of the people who come in and out of a st
   <img src="https://drive.google.com/uc?export=view&id=1lfI78vOvMlhp_TjhJHM2A8OVaECpXsqi" width="100" /> 
   <img src="https://drive.google.com/uc?export=view&id=19Im_1E4oBWebBBjiCHvXIb149eYW5lKS" width="100" />
 </p>
+
+#### Flutter App Screenshots
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=17v_tB7hy4LWy8vgev8OZpKsClPEthAuH" width=270 height=480></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1lfI78vOvMlhp_TjhJHM2A8OVaECpXsqi" width=270 height=480></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=19Im_1E4oBWebBBjiCHvXIb149eYW5lKS" width=270 height=480></td>
+  </tr>
+ </table>
